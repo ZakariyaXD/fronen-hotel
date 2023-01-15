@@ -4,7 +4,7 @@ import dashboard from '../pages/master/dashboard'
     
     const routes = [
         {
-            name: 'dashboard',
+            name: 'Dashboard',
             path: '/',
             compenent: dashboard
 
