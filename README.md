@@ -1,4 +1,4 @@
-# hello-world
+# fronen-hotel
 
 ## Project setup
 ```
